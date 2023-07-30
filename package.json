@@ -1,0 +1,9 @@
+{
+  "name": "flv_hls_stream_media_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-media-server": "^2.6.2"
+  }
+}
