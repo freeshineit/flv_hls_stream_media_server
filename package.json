@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "server": "node ./server/index.js",
+    "dev": "npm run server"
+  },
   "devDependencies": {
     "node-media-server": "^2.6.2"
   }
